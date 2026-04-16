@@ -1,0 +1,207 @@
+[28-Nov-2020 11:43:51 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 11:43:51 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 11:44:34 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 11:44:34 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 13:10:48 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 13:10:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 13:11:11 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 13:11:11 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 15:58:20 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 15:58:20 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:23:33 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:23:33 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:24:22 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:24:22 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:27:15 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 16:27:15 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:45:51 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:45:51 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:52:48 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:52:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:58:00 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 19:58:00 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 20:21:09 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 20:21:09 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:39:31 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:39:31 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:46:09 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:46:09 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:47:11 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:47:11 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:47:52 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[28-Nov-2020 23:47:52 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 00:15:40 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 00:15:40 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 00:16:16 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 00:16:16 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:35:49 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:35:49 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:35:49 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:35:49 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:40:34 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:40:34 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:41:55 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:41:55 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:42:27 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 07:42:27 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 08:21:22 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 08:21:22 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 08:24:13 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 08:24:13 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:29:47 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:29:47 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:31:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:31:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:32:41 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:32:41 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:39:08 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 09:39:08 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 10:26:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 10:26:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 13:19:47 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 13:19:47 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 13:20:46 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 13:20:46 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 15:32:46 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 15:32:46 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 16:38:40 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 16:38:40 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:20:19 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:20:19 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:20:40 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:20:40 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:21:11 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:21:11 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:48:32 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:48:32 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:49:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:49:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:49:55 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:49:55 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:51:39 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 20:51:39 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:00:10 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:00:10 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:10:04 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:10:04 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:10:32 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:10:32 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:16:04 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 21:16:04 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[29-Nov-2020 23:15:34 America/Mexico_City] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (NaN-NaN-NaN) at position 0 (N): The timezone could not be found in the database in /home/realmaes/public_html/consulta.php:62
+Stack trace:
+#0 /home/realmaes/public_html/consulta.php(62): DateTime->__construct('NaN-NaN-NaN')
+#1 {main}
+  thrown in /home/realmaes/public_html/consulta.php on line 62
+[29-Nov-2020 23:15:52 America/Mexico_City] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (NaN-NaN-NaN) at position 0 (N): The timezone could not be found in the database in /home/realmaes/public_html/consulta.php:62
+Stack trace:
+#0 /home/realmaes/public_html/consulta.php(62): DateTime->__construct('NaN-NaN-NaN')
+#1 {main}
+  thrown in /home/realmaes/public_html/consulta.php on line 62
+[29-Nov-2020 23:17:40 America/Mexico_City] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (NaN-NaN-NaN) at position 0 (N): The timezone could not be found in the database in /home/realmaes/public_html/consulta.php:62
+Stack trace:
+#0 /home/realmaes/public_html/consulta.php(62): DateTime->__construct('NaN-NaN-NaN')
+#1 {main}
+  thrown in /home/realmaes/public_html/consulta.php on line 62
+[30-Nov-2020 00:20:51 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 00:20:51 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 00:21:55 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 00:21:55 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 11:24:03 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 11:24:03 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 12:29:14 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 12:29:14 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 14:40:32 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 14:40:32 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 15:34:18 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 15:34:18 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 17:46:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 17:46:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 18:46:29 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 18:46:29 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 21:47:55 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 21:47:55 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 21:59:43 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 21:59:43 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 22:00:07 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 22:00:07 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 22:00:49 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 22:00:49 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 23:49:38 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[30-Nov-2020 23:49:38 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 19:48:33 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 19:48:33 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 19:50:33 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 19:50:33 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 20:08:31 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 20:08:31 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:17:14 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:17:14 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:17:37 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:17:37 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:49:38 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:49:38 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:49:59 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:49:59 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:08 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:08 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:08 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:08 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:56 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:50:56 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:53:17 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[01-Dec-2020 22:53:17 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:15:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:15:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:33:57 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:33:57 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:35:09 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 00:35:09 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 06:16:58 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 06:16:58 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 06:20:19 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 06:20:19 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 08:05:27 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 08:05:27 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 09:30:55 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 09:30:55 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 11:45:02 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 11:45:02 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 14:17:10 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 14:17:10 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 17:38:35 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 17:38:35 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 17:48:16 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 17:48:16 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 19:16:02 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 19:16:02 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 20:36:04 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 20:36:04 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 22:15:17 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 22:15:17 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 23:40:34 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[02-Dec-2020 23:40:34 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 00:09:35 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 00:09:35 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 00:09:46 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 00:09:46 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 01:34:23 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 01:34:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:07:54 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:07:54 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:09:21 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:09:21 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:09:22 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 03:09:22 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 11:39:48 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 11:39:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 12:38:26 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 12:38:26 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:49:48 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:49:48 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:56:19 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:56:19 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:57:14 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 15:57:14 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 17:02:20 America/Mexico_City] PHP Notice:  Undefined variable: link in /home/realmaes/public_html/consulta.php on line 338
+[03-Dec-2020 17:02:20 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/realmaes/public_html/consulta.php on line 338

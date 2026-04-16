@@ -1,0 +1,26 @@
+/* PARA FORMULARIO DE SOLUCITUD */
+.celular[type=number]::-webkit-inner-spin-button,
+.celular[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.celular[type=number] { -moz-appearance:textfield; }
+/* PARA FORMULARIO DE SOLUCITUD */
+
+.btn-outline-primary {
+    color: #000 !important;
+    border-color: #dfa974 !important;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle {
+    background-color: #fff !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #fff;
+}
+
+.btn-outline-primary.focus, .btn-outline-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(233,169,116,.5) !important;
+}

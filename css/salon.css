@@ -1,0 +1,13 @@
+.reserva-button{
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  border: 1px solid #dfa974;
+  border-radius: 2px;
+  color: #dfa974;
+  font-weight: 500;
+  background: transparent;
+  width: 100%;
+  height: 46px;
+  margin-top: 30px;
+}

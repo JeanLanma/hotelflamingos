@@ -1,0 +1,24 @@
+/* TEXTO HERO */
+.hero-text h1 {
+  font-size: 60px !important;
+  line-height: 90px !important;
+  color: #ffffff !important;
+  margin-bottom: 16px !important;
+}
+/* TEXTO HERO */
+
+/* PANTALLA DEMO INSTALACIONES INDEX */
+.demostration-installations{
+	padding-right: 0px !important;
+}
+/* PANTALLA DEMO INSTALACIONES INDEX */
+
+/* PARA FORMULARIO DE SOLUCITUD */
+.celular[type=number]::-webkit-inner-spin-button,
+.celular[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.celular[type=number] { -moz-appearance:textfield; }
+/* PARA FORMULARIO DE SOLUCITUD */
