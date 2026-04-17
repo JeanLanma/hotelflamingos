@@ -3,7 +3,7 @@
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "oscarnoe.dev@gmail.com");
+	define("__TO__", "desarrollo.software@pcbtroniks.com");
 
 	#Message subject
 	define("__SUBJECT__", "Reservacion web");
@@ -23,10 +23,10 @@
 	function send_mail($to,$subject,$message,$headers){
 		if(@mail($to,$subject,$message,$headers)){
 			// echo json_encode(array('info' => 'success', 'msg' => __SUCCESS_MESSAGE__));
-      header('Location: http://realmaestranzahotel.com/success.php');
+      header('Location: https://hotelflamingos.pcbtroniks.com/');
 		} else {
 			// echo json_encode(array('info' => 'error', 'msg' => __ERROR_MESSAGE__));
-      header('Location: http://realmaestranzahotel.com/fail.html');
+      header('Location: https://hotelflamingos.pcbtroniks.com/');
 		}
 	}
 
