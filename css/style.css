@@ -37,6 +37,7 @@ html, body {
 	font-family: "Cabin", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	background-color: #1e2330;
 }
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
@@ -89,7 +90,7 @@ input:focus, select:focus, button:focus, textarea:focus {
 a:hover, a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #fff;
+	color: #ffffff;
 }
 ul, ol {
 	padding: 0;
@@ -122,7 +123,7 @@ ul, ol {
 }
 .section-title h2 {
 	font-size: 44px;
-	color: #ffff;
+	color: #ffffff;
 	line-height: 58px;
 	margin-top: 10px;
 }
@@ -140,7 +141,7 @@ ul, ol {
 	padding-bottom: 70px;
 }
 .text-white h1, .text-white h2, .text-white h3, .text-white h4, .text-white h5, .text-white h6, .text-white p, .text-white span, .text-white li, .text-white a {
-	color: #fff;
+	color: #ffffff;
 }
 /* buttons */
 
@@ -264,7 +265,7 @@ ul, ol {
 	width: 50px;
 	height: 50px;
 	background: #333;
-	color: #fff;
+	color: #ffffff;
 	text-align: center;
 	border-radius: 50%;
 	font-size: 28px;
@@ -670,7 +671,7 @@ ul, ol {
 	padding: 0 35px;
 }
 .about-text p {
-	color: #ffff;
+	color: #ffffff;
 	font-weight: 500;
 }
 .about-text p.f-para {
@@ -680,7 +681,7 @@ ul, ol {
 	margin-bottom: 35px;
 }
 .about-text .about-btn {
-	color: #ffff;
+	color: #ffffff;
 }
 .about-pic img {
 	min-width: 100%;
@@ -723,7 +724,7 @@ ul, ol {
 	transition: all 0.3s;
 }
 .service-item h4 {
-	color: #ffff;
+	color: #ffffff;
 	font-size: 22px;
 	margin-bottom: 15px;
 	margin-top: 10px;

@@ -1,15 +1,15 @@
 /* TEXTO HERO */
 .hero-text h1 {
-  font-size: 60px !important;
-  line-height: 90px !important;
-  color: #ffffff !important;
-  margin-bottom: 16px !important;
+  font-size: 60px;
+  line-height: 90px;
+  color: #ffffff;
+  margin-bottom: 16px;
 }
 /* TEXTO HERO */
 
 /* PANTALLA DEMO INSTALACIONES INDEX */
 .demostration-installations{
-	padding-right: 0px !important;
+	padding-right: 0px;
 }
 /* PANTALLA DEMO INSTALACIONES INDEX */
 
