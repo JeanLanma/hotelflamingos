@@ -73,6 +73,7 @@
 .mfp-arrow,
 .mfp-preloader,
 .mfp-counter {
+  --background-color: #1e2330;
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none; }

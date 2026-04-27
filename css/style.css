@@ -44,6 +44,16 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	font-family: "Lora", serif;
 }
+
+.main-title {
+	color: #ffffff; font-size: 100px;
+	background: linear-gradient(to right, #ffffff, #f06f9a);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	font-weight: bold;
+}
+
 h1 {
 	font-size: 70px;
 }
@@ -89,20 +99,30 @@ ul, ol {
   Helper CSS
 -----------------------*/
 
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background: rgba(0, 0, 0, 0.5);
+	z-index: 1;
+}
+
 .section-title {
 	text-align: center;
 	margin-bottom: 22px;
 }
 .section-title span {
 	font-size: 14px;
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
 .section-title h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #ffff;
 	line-height: 58px;
 	margin-top: 10px;
 }
@@ -139,7 +159,7 @@ ul, ol {
 	bottom: -5px;
 	width: 100%;
 	height: 2px;
-	background: #f4566a;
+	background: #fc92b0;
 	content: "";
 }
 /* Preloder */
@@ -276,7 +296,7 @@ ul, ol {
 	list-style: none;
 	display: inline-block;
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	font-weight: 500;
 	padding: 14px 0 12px;
 	margin-right: 64px;
@@ -298,7 +318,7 @@ ul, ol {
 	display: none;
 }
 .top-nav .tn-left li i {
-	color: #F4566A;
+	color: #fc92b0;
 	margin-right: 4px;
 }
 .top-nav .tn-right {
@@ -312,7 +332,7 @@ ul, ol {
 .top-nav .tn-right .top-social a {
 	display: inline-block;
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	margin-left: 15px;
 }
 .top-nav .tn-right .bk-btn {
@@ -320,7 +340,7 @@ ul, ol {
 	font-size: 13px;
 	font-weight: 700;
 	padding: 16px 28px 15px;
-	background: #F4566A;
+	background: #fc92b0;
 	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -345,7 +365,7 @@ ul, ol {
 }
 .top-nav .tn-right .language-option span {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 500;
 }
@@ -374,13 +394,13 @@ ul, ol {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 500;
-	color: #19191a;
+	color: #ffffff;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
 }
 .top-nav .tn-right .language-option .flag-dropdown ul li a:hover {
-	color: #f4566a;
+	color: #fc92b0;
 }
 .menu-item {
 	position: relative;
@@ -417,7 +437,7 @@ ul, ol {
 }
 .menu-item .nav-menu .mainmenu li a {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	margin-right: 42px;
 	font-weight: 500;
 	display: inline-block;
@@ -433,7 +453,7 @@ ul, ol {
 	top: 52px;
 	width: 100%;
 	height: 2px;
-	background: #f4566a;
+	background: #fc92b0;
 	content: "";
 	opacity: 0;
 	-webkit-transition: all 0.3s;
@@ -461,7 +481,7 @@ ul, ol {
 }
 .menu-item .nav-menu .mainmenu li .dropdown li a {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	display: block;
 	text-align: left;
 	padding: 8px 15px;
@@ -470,7 +490,7 @@ ul, ol {
 	transition: all 0.3s;
 }
 .menu-item .nav-menu .mainmenu li .dropdown li a:hover {
-	color: #f4566a;
+	color: #fc92b0;
 }
 .menu-item .nav-menu .mainmenu li .dropdown li a:after {
 	display: none;
@@ -482,7 +502,7 @@ ul, ol {
 }
 .menu-item .nav-menu .nav-right i {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	cursor: pointer;
 }
 .canvas-open {
@@ -497,7 +517,6 @@ ul, ol {
 
 .hero-section {
 	position: relative;
-	padding-top: 60px;
 	padding-bottom: 100px;
 }
 .hero-section .container {
@@ -525,7 +544,7 @@ ul, ol {
 	border-radius: 4px;
 }
 .booking-form h3 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 36px;
 }
 .booking-form form .check-date {
@@ -544,13 +563,13 @@ ul, ol {
 	border: 1px solid #ebebeb;
 	border-radius: 2px;
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 500;
 	padding-left: 20px;
 }
 .booking-form form .check-date i {
-	color: #f4566a;
+	color: #fc92b0;
 	position: absolute;
 	right: 18px;
 	bottom: 17px;
@@ -575,8 +594,8 @@ ul, ol {
 	float: none;
 }
 .booking-form form .select-option .nice-select:after {
-	border-bottom: 2px solid #f4566a;
-	border-right: 2px solid #f4566a;
+	border-bottom: 2px solid #fc92b0;
+	border-right: 2px solid #fc92b0;
 	height: 10px;
 	margin-top: 0;
 	right: 20px;
@@ -585,7 +604,7 @@ ul, ol {
 }
 .booking-form form .select-option .nice-select span {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 500;
 }
@@ -597,9 +616,9 @@ ul, ol {
 	display: block;
 	font-size: 14px;
 	text-transform: uppercase;
-	border: 1px solid #f4566a;
+	border: 1px solid #fc92b0;
 	border-radius: 2px;
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 500;
 	background: transparent;
 	width: 100%;
@@ -651,7 +670,7 @@ ul, ol {
 	padding: 0 35px;
 }
 .about-text p {
-	color: #595960;
+	color: #ffff;
 	font-weight: 500;
 }
 .about-text p.f-para {
@@ -661,7 +680,7 @@ ul, ol {
 	margin-bottom: 35px;
 }
 .about-text .about-btn {
-	color: #19191a;
+	color: #ffff;
 }
 .about-pic img {
 	min-width: 100%;
@@ -685,7 +704,7 @@ ul, ol {
 	transition: all 0.3s;
 }
 .service-item:hover {
-	background: #f4566a;
+	background: #fc92b0;
 }
 .service-item:hover i {
 	color: #ffffff;
@@ -698,13 +717,13 @@ ul, ol {
 }
 .service-item i {
 	display: inline-block;
-	color: #f4566a;
+	color: #fc92b0;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
 }
 .service-item h4 {
-	color: #19191a;
+	color: #ffff;
 	font-size: 22px;
 	margin-bottom: 15px;
 	margin-top: 10px;
@@ -743,7 +762,7 @@ ul, ol {
 	position: absolute;
 	left: 45px;
 	right: 25px;
-	bottom: -250px;
+	bottom: -200px;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
@@ -753,7 +772,7 @@ ul, ol {
 	margin-bottom: 15px;
 }
 .hp-room-items .hp-room-item .hr-text h2 {
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 700;
 	margin-bottom: 50px;
 	-webkit-transition: all 0.2s;
@@ -815,8 +834,8 @@ ul, ol {
 	transition: all 0.3s;
 }
 .testimonial-slider.owl-carousel .owl-nav button:hover {
-	border-color: #19191a;
-	color: #19191a;
+	border-color: #fc92b0;
+	color: #ffffff;
 }
 .testimonial-slider.owl-carousel .owl-nav button.owl-next {
 	left: auto;
@@ -843,7 +862,7 @@ ul, ol {
 }
 .testimonial-slider .ts-item .ti-author h5 {
 	font-size: 20px;
-	color: #19191a;
+	color: #ffffff;
 	display: inline-block;
 }
 /*---------------------
@@ -895,15 +914,15 @@ ul, ol {
 	margin-right: 7px;
 }
 .footer-section .footer-text .ft-about .fa-social a:hover {
-	background: #f4566a;
-	border-color: #f4566a;
+	background: #fc92b0;
+	border-color: #fc92b0;
 }
 .footer-section .footer-text .ft-contact {
 	margin-bottom: 30px;
 }
 .footer-section .footer-text .ft-contact h6 {
 	font-size: 14px;
-	color: #f4566a;
+	color: #fc92b0;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 3px;
@@ -918,7 +937,7 @@ ul, ol {
 }
 .footer-section .footer-text .ft-newslatter h6 {
 	font-size: 14px;
-	color: #f4566a;
+	color: #fc92b0;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 3px;
@@ -947,7 +966,7 @@ ul, ol {
 	right: 0;
 	top: 0;
 	font-size: 16px;
-	background: #f4566a;
+	background: #fc92b0;
 	color: #ffffff;
 	padding: 0 16px;
 	height: 50px;
@@ -990,13 +1009,13 @@ ul, ol {
 }
 .breadcrumb-text h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 12px;
 }
 .breadcrumb-text .bt-option a {
 	display: inline-block;
 	font-size: 18px;
-	color: #19191a;
+	color: #ffffff;
 	margin-right: 20px;
 	position: relative;
 	font-weight: 500;
@@ -1031,7 +1050,7 @@ ul, ol {
 }
 .about-page-text .ap-title h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 18px;
 }
 .about-page-text .ap-title p {
@@ -1046,7 +1065,7 @@ ul, ol {
 	line-height: 42px;
 }
 .about-page-text .ap-services li i {
-	color: #f4566a;
+	color: #fc92b0;
 	margin-right: 5px;
 }
 .about-page-services .ap-service-item {
@@ -1171,11 +1190,11 @@ ul, ol {
 	padding: 24px 24px 30px 28px;
 }
 .room-item .ri-text h4 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 17px;
 }
 .room-item .ri-text h3 {
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 700;
 	margin-bottom: 14px;
 }
@@ -1183,7 +1202,7 @@ ul, ol {
 	font-family: "Cabin", sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	color: #19191a;
+	color: #ffffff;
 }
 .room-item .ri-text table {
 	margin-bottom: 18px;
@@ -1197,7 +1216,7 @@ ul, ol {
 	width: 125px;
 }
 .room-item .ri-text .primary-btn {
-	color: #19191a;
+	color: #ffffff;
 }
 .room-pagination {
 	text-align: center;
@@ -1219,7 +1238,7 @@ ul, ol {
 	margin-right: 0;
 }
 .room-pagination a:hover {
-	background: #f4566a;
+	background: #fc92b0;
 	color: #ffffff;
 }
 /*-----------------------
@@ -1241,7 +1260,7 @@ ul, ol {
 	margin-bottom: 8px;
 }
 .room-details-item .rd-text .rd-title h3 {
-	color: #19191a;
+	color: #ffffff;
 	float: left;
 }
 .room-details-item .rd-text .rd-title .rdt-right {
@@ -1262,11 +1281,11 @@ ul, ol {
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #f4566a;
+	background: #fc92b0;
 	padding: 14px 28px 13px;
 }
 .room-details-item .rd-text h2 {
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 700;
 	margin-bottom: 25px;
 }
@@ -1274,14 +1293,14 @@ ul, ol {
 	font-family: "Cabin", sans-serif;
 	font-size: 16px;
 	font-weight: 400;
-	color: #19191a;
+	color: #ffffff;
 }
 .room-details-item .rd-text table {
 	margin-bottom: 32px;
 }
 .room-details-item .rd-text table tbody tr td {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	line-height: 36px;
 }
 .room-details-item .rd-text table tbody tr td.r-o {
@@ -1300,7 +1319,7 @@ ul, ol {
 	margin-bottom: 50px;
 }
 .rd-reviews h4 {
-	color: #19191a;
+	color: #ffffff;
 	letter-spacing: 1px;
 	margin-bottom: 45px;
 }
@@ -1332,7 +1351,7 @@ ul, ol {
 }
 .rd-reviews .review-item .ri-text span {
 	font-size: 12px;
-	color: #f4566a;
+	color: #fc92b0;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -1345,7 +1364,7 @@ ul, ol {
 	color: #f5b917;
 }
 .rd-reviews .review-item .ri-text h5 {
-	color: #19191a;
+	color: #ffffff;
 	margin-top: 4px;
 	margin-bottom: 8px;
 }
@@ -1354,7 +1373,7 @@ ul, ol {
 	margin-bottom: 0;
 }
 .review-add h4 {
-	color: #19191a;
+	color: #ffffff;
 	letter-spacing: 1px;
 	margin-bottom: 45px;
 }
@@ -1384,7 +1403,7 @@ ul, ol {
 }
 .review-add .ra-form h5 {
 	font-size: 20px;
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 24px;
 	float: left;
 	margin-right: 10px;
@@ -1429,7 +1448,7 @@ ul, ol {
 	text-transform: uppercase;
 	color: #ffffff;
 	letter-spacing: 2px;
-	background: #f4566a;
+	background: #fc92b0;
 	border: none;
 	padding: 14px 34px 13px;
 	display: inline-block;
@@ -1438,7 +1457,7 @@ ul, ol {
 	padding: 0 30px 0 40px;
 }
 .room-booking h3 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 30px;
 }
 .room-booking form .check-date {
@@ -1457,13 +1476,13 @@ ul, ol {
 	border: 1px solid #ebebeb;
 	border-radius: 2px;
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 500;
 	padding-left: 20px;
 }
 .room-booking form .check-date i {
-	color: #f4566a;
+	color: #fc92b0;
 	position: absolute;
 	right: 18px;
 	bottom: 17px;
@@ -1488,8 +1507,8 @@ ul, ol {
 	float: none;
 }
 .room-booking form .select-option .nice-select:after {
-	border-bottom: 2px solid #f4566a;
-	border-right: 2px solid #f4566a;
+	border-bottom: 2px solid #fc92b0;
+	border-right: 2px solid #fc92b0;
 	height: 10px;
 	margin-top: 0;
 	right: 20px;
@@ -1498,7 +1517,7 @@ ul, ol {
 }
 .room-booking form .select-option .nice-select span {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 500;
 }
@@ -1510,9 +1529,9 @@ ul, ol {
 	display: block;
 	font-size: 14px;
 	text-transform: uppercase;
-	border: 1px solid #f4566a;
+	border: 1px solid #fc92b0;
 	border-radius: 2px;
-	color: #f4566a;
+	color: #fc92b0;
 	font-weight: 500;
 	background: transparent;
 	width: 100%;
@@ -1550,7 +1569,7 @@ ul, ol {
 	font-size: 12px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	background: #f4566a;
+	background: #fc92b0;
 	padding: 3px 10px;
 	border-radius: 2px;
 }
@@ -1572,7 +1591,7 @@ ul, ol {
 	padding-top: 30px;
 }
 .load-more .primary-btn {
-	color: #19191a;
+	color: #ffffff;
 }
 /*----------------------------
   Blog Details Hero Section
@@ -1588,12 +1607,12 @@ ul, ol {
 .bd-hero-text span {
 	font-size: 12px;
 	color: #ffffff;
-	background: #f4566a;
+	background: #fc92b0;
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	display: inline-block;
-	padding: 4px 16px;
+	padding: 9px 16px;
 	border-radius: 2px;
 }
 .bd-hero-text h2 {
@@ -1606,7 +1625,7 @@ ul, ol {
 .bd-hero-text ul li {
 	list-style: none;
 	font-size: 14px;
-	color: #f4566a;
+	color: #fc92b0;
 	margin-right: 35px;
 	display: inline-block;
 }
@@ -1653,7 +1672,7 @@ ul, ol {
 	margin-bottom: 30px;
 }
 .blog-details-text .bd-more-text .bm-item h4 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 20px;
 }
 .blog-details-text .bd-more-text .bm-item p {
@@ -1687,7 +1706,7 @@ ul, ol {
 }
 .blog-details-text .tag-share .tags a:hover {
 	color: #ffffff;
-	background: #f4566a;
+	background: #fc92b0;
 }
 .blog-details-text .tag-share .social-share {
 	float: right;
@@ -1707,7 +1726,7 @@ ul, ol {
 	margin-bottom: 75px;
 }
 .blog-details-text .comment-option h4 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 35px;
 }
 .blog-details-text .comment-option .single-comment-item {
@@ -1756,13 +1775,13 @@ ul, ol {
 }
 .blog-details-text .comment-option .single-comment-item .sc-text span {
 	font-size: 12px;
-	color: #f4566a;
+	color: #fc92b0;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
 .blog-details-text .comment-option .single-comment-item .sc-text h5 {
 	font-size: 20px;
-	color: #19191a;
+	color: #ffffff;
 	margin-top: 4px;
 	margin-bottom: 8px;
 }
@@ -1772,7 +1791,7 @@ ul, ol {
 }
 .blog-details-text .comment-option .single-comment-item .sc-text a {
 	display: inline-block;
-	color: #19191a;
+	color: #ffffff;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -1786,12 +1805,12 @@ ul, ol {
 	margin-right: 10px;
 }
 .blog-details-text .comment-option .single-comment-item .sc-text a:hover {
-	background: #f4566a;
+	background: #fc92b0;
 	color: #ffffff;
-	border-color: #f4566a;
+	border-color: #fc92b0;
 }
 .blog-details-text .leave-comment h4 {
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 35px;
 }
 .blog-details-text .leave-comment .comment-form input {
@@ -1808,7 +1827,7 @@ ul, ol {
 	transition: all 0.3s;
 }
 .blog-details-text .leave-comment .comment-form input:focus {
-	border-color: #f4566a;
+	border-color: #fc92b0;
 }
 .blog-details-text .leave-comment .comment-form textarea {
 	width: 100%;
@@ -1826,7 +1845,7 @@ ul, ol {
 	padding-top: 12px;
 }
 .blog-details-text .leave-comment .comment-form textarea:focus {
-	border-color: #f4566a;
+	border-color: #fc92b0;
 }
 .blog-details-text .leave-comment .comment-form button {
 	font-size: 13px;
@@ -1834,7 +1853,7 @@ ul, ol {
 	text-transform: uppercase;
 	color: #ffffff;
 	letter-spacing: 2px;
-	background: #f4566a;
+	background: #fc92b0;
 	border: none;
 	padding: 14px 42px 13px;
 	display: inline-block;
@@ -1864,7 +1883,7 @@ ul, ol {
 }
 .contact-text h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #ffffff;
 	margin-bottom: 24px;
 }
 .contact-text p {
@@ -1872,7 +1891,7 @@ ul, ol {
 }
 .contact-text table tbody tr td {
 	font-size: 16px;
-	color: #19191a;
+	color: #ffffff;
 	line-height: 36px;
 	font-weight: 500;
 }
@@ -1936,7 +1955,7 @@ ul, ol {
 	text-transform: uppercase;
 	color: #ffffff;
 	letter-spacing: 2px;
-	background: #f4566a;
+	background: #fc92b0;
 	border: none;
 	padding: 14px 34px 13px;
 	display: inline-block;
@@ -2013,8 +2032,8 @@ ul, ol {
 		font-size: 22px;
 		width: 30px;
 		height: 30px;
-		color: #19191a;
-		border: 1px solid #19191a;
+		color: #ffffff;
+		border: 1px solid #ffffff;
 		border-radius: 2px;
 		line-height: 33px;
 		text-align: center;
@@ -2028,7 +2047,7 @@ ul, ol {
 		top: 0;
 		width: 300px;
 		z-index: 999;
-		background: #ffffff;
+		background-color: #fc92b0;
 		text-align: center;
 		overflow-y: auto;
 		height: 100%;
@@ -2043,7 +2062,7 @@ ul, ol {
 	.offcanvas-menu-wrapper .canvas-close {
 		height: 30px;
 		width: 30px;
-		border: 1px solid #19191a;
+		border: 1px solid #ffffff;
 		border-radius: 50%;
 		text-align: center;
 		line-height: 30px;
@@ -2054,7 +2073,7 @@ ul, ol {
 		padding-right: 1px;
 	}
 	.offcanvas-menu-wrapper .search-icon {
-		color: #19191a;
+		color: #ffffff;
 		text-align: center;
 		cursor: pointer;
 		margin-bottom: 10px;
@@ -2082,7 +2101,7 @@ ul, ol {
 	}
 	.offcanvas-menu-wrapper .header-configure-area .language-option span {
 		font-size: 16px;
-		color: #19191a;
+		color: #ffffff;
 		text-transform: uppercase;
 		font-weight: 500;
 	}
@@ -2111,20 +2130,20 @@ ul, ol {
 		font-size: 14px;
 		text-transform: uppercase;
 		font-weight: 500;
-		color: #19191a;
+		color: #ffffff;
 		-webkit-transition: all 0.3s;
 		-o-transition: all 0.3s;
 		transition: all 0.3s;
 	}
 	.offcanvas-menu-wrapper .header-configure-area .language-option .flag-dropdown ul li a:hover {
-		color: #f4566a;
+		color: #fc92b0;
 	}
 	.offcanvas-menu-wrapper .header-configure-area .bk-btn {
 		display: inline-block;
 		font-size: 13px;
 		font-weight: 700;
 		padding: 16px 28px 15px;
-		background: #f4566a;
+		background: #fc92b0;
 		color: #ffffff;
 		text-transform: uppercase;
 		letter-spacing: 2px;
@@ -2156,7 +2175,7 @@ ul, ol {
 		padding: 10px;
 		font-weight: 600;
 		font-size: 14px;
-		color: #19191a;
+		color: #ffffff;
 		border-bottom: 1px solid #e5e5e5;
 		-webkit-transition: all 0.3s;
 		-o-transition: all 0.3s;
@@ -2165,7 +2184,7 @@ ul, ol {
 	.offcanvas-menu-wrapper .slicknav_menu .slicknav_nav ul li a:hover {
 		border-radius: 0;
 		background: transparent;
-		color: #f4566a;
+		color: #fc92b0;
 	}
 	.offcanvas-menu-wrapper .slicknav_menu .slicknav_nav .slicknav_row a {
 		border-bottom: 0;
@@ -2175,16 +2194,16 @@ ul, ol {
 		transition: all 0.3s;
 	}
 	.offcanvas-menu-wrapper .slicknav_menu .slicknav_nav .slicknav_row span {
-		color: #19191a;
+		color: #ffffff;
 		-webkit-transition: all 0.3s;
 		-o-transition: all 0.3s;
 		transition: all 0.3s;
 	}
 	.offcanvas-menu-wrapper .slicknav_menu .slicknav_nav .slicknav_row:hover a {
-		color: #f4566a;
+		color: #fc92b0;
 	}
 	.offcanvas-menu-wrapper .slicknav_menu .slicknav_nav .slicknav_row:hover span {
-		color: #f4566a;
+		color: #fc92b0;
 	}
 	.offcanvas-menu-wrapper .top-social {
 		display: inline-block;
@@ -2194,7 +2213,7 @@ ul, ol {
 	.offcanvas-menu-wrapper .top-social a {
 		display: inline-block;
 		font-size: 16px;
-		color: #19191a;
+		color: #ffffff;
 		margin-right: 20px;
 	}
 	.offcanvas-menu-wrapper .top-social a:last-child {
@@ -2203,12 +2222,12 @@ ul, ol {
 	.offcanvas-menu-wrapper .top-widget li {
 		list-style: none;
 		font-size: 16px;
-		color: #19191a;
+		color: #ffffff;
 		font-weight: 500;
 		line-height: 28px;
 	}
 	.offcanvas-menu-wrapper .top-widget li i {
-		color: #f4566a;
+		color: #fc92b0;
 		margin-right: 4px;
 	}
 	.offcanvas-menu-wrapper.show-offcanvas-menu-wrapper {
@@ -2236,8 +2255,9 @@ ul, ol {
 	.contact-form {
 		padding-top: 30px;
 	}
-	.hero-text {
-		margin-bottom: 40px;
+
+	.footer-mobile-menu {
+		align-self: self-end;
 	}
 }
 /* Tablet Device: 768px */
@@ -2334,4 +2354,7 @@ ul, ol {
 	.blog-details-text .comment-option .single-comment-item .sc-text a {
 		margin-bottom: 10px;
 	}
+	.main-title {
+		font-size: 60px;
+		line-height: 40px;}
 }

@@ -53,9 +53,9 @@
     <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 
-<body>
+<body style="background-color: #1e2330;">
     <!-- Page Preloder -->
-    <div id="preloder">
+    <div id="preloder" style="background-color: #1e2330;">
         <div class="loader"></div>
     </div>
 
@@ -80,6 +80,7 @@
             </div>
             <a href="https://api.whatsapp.com/send?phone=+5213336199921&text=Hola%20tengo%20inter%C3%A9s%20en%20reservar%20una%20habitaci%C3%B3n,%20me%20podr%C3%ADan%20dar%20m%C3%A1s%20informaci%C3%B3n?" class="bk-btn">Reserva <i class="fa fa-whatsapp"></i></a>
         </div>
+        <div class="footer-mobile-menu">
         <nav class="mainmenu mobile-menu">
             <ul>
                 <li class="active"><a href="./index.html">Inicio</a></li>
@@ -98,6 +99,7 @@
             <li><i class="fa fa-phone"></i> (33) 3619 9921</li>
             <li><i class="fa fa-envelope"></i> recepcion@hospedajeflamingos.com</li>
         </ul>
+        </div>
     </div>
     <!-- Offcanvas Menu Section End MOBIL-->
 
@@ -135,7 +137,13 @@
                 </div>
             </div>
         </div>
-        <div class="menu-item">
+    </header>
+    <!-- Header End -->
+
+    <!-- Hero Section Begin -->
+    <section class="hero-section">
+        <div class="container">
+            <div class="menu-item">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-2">
@@ -151,6 +159,7 @@
                                 <ul>
                                     <li class="active"><a href="./index.html">Inicio</a></li>
                                     <li><a href="./rooms.html">Habitaciones</a></li>
+                                    <li><a href="./about-us.html">Nosotros</a></li>
                                     <li><a href="./contact.html">Contacto</a></li>
                                 </ul>
                             </nav>
@@ -159,12 +168,6 @@
                 </div>
             </div>
         </div>
-    </header>
-    <!-- Header End -->
-
-    <!-- Hero Section Begin -->
-    <section class="hero-section">
-        <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="hero-text">
@@ -176,8 +179,11 @@
                         <br>
                         <br>
                         <br>
-                        <h3 style="color: #ffffff;">Hotel Flamingos</h3>
-                        <p>Somos un establecimiento agradable, el lugar ideal donde podrás disfrutar de tu escancia con encanto. 
+                        <div>
+                        <h3 class="main-title" >Hotel Flamingos</h3>
+                        </div>
+                    </div>
+                        <p style="color: #fff;">Somos un establecimiento agradable, el lugar ideal donde podrás disfrutar de tu escancia con encanto. 
 Nos encontramos cera del Centro Histórico de Guadalajara.</p>
                         <a href="./about-us.html" class="primary-btn">Explorar</a>
                     </div>
@@ -237,20 +243,18 @@ Nos encontramos cera del Centro Histórico de Guadalajara.</p>
         </div>
 
         <div class="hero-slider owl-carousel media-desktop">
-          <div class="hs-item set-bg " data-setbg="img/hero/hero-1.jpg"></div>
-          <!--
-          <div class="hs-item set-bg " data-setbg="img/hero/hero-2.jpg"></div>
+            <div class="hs-item set-bg " data-setbg="img/hero/hero-1.jpg"></div>
+            <div class="hs-item set-bg " data-setbg="img/hero/hero-4.webp"></div>
+            <div class="hs-item set-bg " data-setbg="img/hero/hero-2.jpg"></div>
+            <div class="hs-item set-bg " data-setbg="img/hero/hero-3.webp"></div>
+            <!--
+                <div class="hs-item set-bg " data-setbg="img/hero/hero-3.jpg"></div>
           <div class="hs-item set-bg " data-setbg="img/hero/hero-3.jpg"></div>
             -->
         </div>
+        <div class="overlay"></div>
 
-        <div class="hero-slider owl-carousel media-mobile">
-            <div class="hs-item set-bg " data-setbg="img/hero/hero-1.jpg"></div>
-            <!--
-            <div class="hs-item set-bg " data-setbg="img/hero/m-hero-2.jpg"></div>
-            <div class="hs-item set-bg " data-setbg="img/hero/m-hero-3.jpg"></div>
-            -->
-        </div>
+
     </section>
     <!-- Hero Section End -->
 
@@ -261,8 +265,8 @@ Nos encontramos cera del Centro Histórico de Guadalajara.</p>
                 <div class="col-lg-6">
                     <div class="about-text">
                         <div class="section-title">
-                            <span>Nosotros</span>
-                            <h2>Hotel <br />Flamingos</h2>
+                            <span>Conócenos</span>
+                            <h2>Hospedaje Flamingos</h2>
                         </div>
                         <p class="f-para">Atrévete a vivir una estancia perfecta, en un entorno que combina la modernidad con el concepto clásico de un edificio icónico fundado en 1980.</p>
                         <p class="s-para">Estamos reinventando el concepto de una estancia agradable: instalaciones limpias y llenas de confort, personal profesional, habitaciones diferentes entre sí pensadas en las necesidades de nuestros huéspedes.</p>
@@ -275,6 +279,7 @@ Nos encontramos cera del Centro Histórico de Guadalajara.</p>
                             <div class="col-sm-6">
                                 <img src="img/about/about-1.jpg" alt="">
                             </div>
+                            
                             <div class="col-sm-6">
                                 <img src="img/about/about-2.jpg" alt="">
                             </div>
