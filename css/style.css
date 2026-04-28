@@ -2352,6 +2352,6 @@ ul, ol {
 		margin-bottom: 10px;
 	}
 	.main-title {
-		font-size: 60px;
-		line-height: 40px;}
+		font-size: 60px !important;
+		line-height: 40px !important;}
 }
