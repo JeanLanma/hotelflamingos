@@ -2256,6 +2256,15 @@ ul, ol {
 	.footer-mobile-menu {
 		align-self: self-end;
 	}
+	.hero-section {
+		min-height: 500px;
+	}
+	.hero-slider .owl-stage-outer,
+	.hero-slider .owl-stage,
+	.hero-slider .owl-item,
+	.hero-slider .hs-item {
+		min-height: 500px;
+	}
 }
 /* Tablet Device: 768px */
 
