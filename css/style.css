@@ -47,12 +47,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-title {
-	color: white !important; font-size: 100px;
-	background: linear-gradient(to right, white !important, #f06f9a);
-	background-clip: text;
-	-webkit-background-clip: text;
-	color: transparent;
-	font-weight: bold;
+	color: white; font-size: 100px !important;
+	background: linear-gradient(to right, white, #f06f9a) !important;
+	background-clip: text !important;
+	-webkit-background-clip: text !important;
+	color: transparent !important;
+	font-weight: bold !important;
 }
 
 h1 {
@@ -286,10 +286,6 @@ ul, ol {
   Header
 -----------------------*/
 
-.header-section.header-normal .menu-item {
-	-webkit-box-shadow: 0px 12px 15px rgba(36, 11, 12, 0.05);
-	box-shadow: 0px 12px 15px rgba(36, 11, 12, 0.05);
-}
 .top-nav {
 	border-bottom: 1px solid #e5e5e5;
 }
