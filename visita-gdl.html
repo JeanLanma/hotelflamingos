@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -41,7 +41,7 @@
     <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="css/style.css?v=5" type="text/css">
+    <link rel="stylesheet" href="css/style.css?v=6" type="text/css">
     <link rel="stylesheet" href="css/mtz.css" type="text/css">
     <link rel="stylesheet" href="css/boton.css" type="text/css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -55,7 +55,7 @@
 
 <body style="background-color: #1e2330;">
     <!-- Page Preloder -->
-    <div style="background-color: #1e2330;" id="preloder">
+    <div id="preloder" style="background-color: #1e2330;">
         <div class="loader"></div>
     </div>
 
@@ -80,26 +80,35 @@
             </div>
             <a href="https://flamingos.pcbtroniks.com/direct-booking" class="bk-btn">Reservar Ahora</a>
         </div>
-        <nav class="mainmenu mobile-menu">
-            <ul>
-                <li class="active"><a href="./index.html">Inicio</a></li>
-                <li><a href="./rooms.html">Instalaciones</a></li>
-                <li><a href="./about-us.html">Nosotros</a></li>
-                <li><a href="./contact.html">Contacto</a></li>
+        <div class="footer-mobile-menu">
+            <nav class="mainmenu mobile-menu">
+                <ul>
+                    <li><a href="./index.html">Inicio</a></li>
+                    <li><a href="javascript:void(0)">Instalaciones</a>
+                        <ul class="dropdown">
+                            <li><a href="./rooms.html">Habitaciones</a></li>
+                            <li><a href="./index.html#restaurante">Restaurante</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="./about-us.html">Nosotros</a></li>
+                    <li><a href="./contact.html">Contacto</a></li>
+                </ul>
+            </nav>
+            <div id="mobile-menu-wrap"></div>
+            <div class="top-social">
+                <a href="https://www.facebook.com/flamingoshospedaje/" target="_blank"><i
+                        class="fa fa-facebook"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=523318360271&text=Me%20interesa%20saber%20m%C3%A1s%20acerca%20del%20hotel."
+                    target="_blank">
+                    <i class="fa fa-whatsapp"></i></a>
+                <a href="https://www.instagram.com/flamingoshospedaje/" target="_blank"><i
+                        class="fa fa-instagram"></i></a>
+            </div>
+            <ul style="color: white;" class="top-widget">
+                <li><i class="fa fa-phone"></i> 33 3619 9921</li>
+                <li><i class="fa fa-envelope"></i> recepcion@hospedajeflamingos.com</li>
             </ul>
-        </nav>
-        <div id="mobile-menu-wrap"></div>
-        <div style="color: white;" class="top-social">
-            <a href="https://www.facebook.com/flamingoshospedaje/" target="_blank"><i class="fa fa-facebook"></i></a>
-            <a href="https://api.whatsapp.com/send?phone=523318360271&text=Me%20interesa%20saber%20m%C3%A1s%20acerca%20del%20hotel."
-                target="_blank">
-                <i class="fa fa-whatsapp"></i></a>
-            <a href="https://www.instagram.com/flamingoshospedaje//" target="_blank"><i class="fa fa-instagram"></i></a>
         </div>
-        <ul style="color: white;" class="top-widget">
-            <li><i class="fa fa-phone"></i> 33 3619 9921</li>
-            <li><i class="fa fa-envelope"></i> recepcion@hospedajeflamingos.com</li>
-        </ul>
     </div>
     <!-- Offcanvas Menu Section End MOBIL-->
 
@@ -129,8 +138,8 @@
                                 <a href="https://www.instagram.com/flamingoshospedaje/" target="_blank"><i
                                         class="fa fa-instagram"></i></a>
                             </div>
-                            <a href="https://api.whatsapp.com/send?phone=+523318360271&text=Hola%20tengo%20inter%C3%A9s%20en%20reservar%20una%20habitaci%C3%B3n,%20me%20podr%C3%ADan%20dar%20m%C3%A1s%20informaci%C3%B3n?"
-                                target="_blank" class="bk-btn">Reserva Ahora <i class="fa fa-whatsapp"></i></a>
+                            <a href="https://flamingos.pcbtroniks.com/direct-booking" target="_blank"
+                                class="bk-btn">Reserva Ahora <i class="fa fa-whatsapp"></i></a>
                             <div class="language-option">
                                 <img src="img/flag-mx.png" alt="hotel-mexicano-lujoso">
                                 <span>ES <i class="fa fa-angle-down"></i></span>
@@ -145,51 +154,53 @@
                 </div>
             </div>
         </div>
-        <div class="menu-item">
-            <div style="color: white;" class="container">
-                <div class="row">
-                    <div class="col-lg-2">
-                        <div class="logo">
-                            <a href="./index.html">
-                                <img style="width: 6rem;" src="img/footer-logo.png"
-                                    alt="real-maestranza-hotel-en-el-centro-de-guadalajara">
-                            </a>
+    </header>
+    <!-- Header End -->
+
+<div class="menu-item">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2">
+                            <div class="logo">
+                                <a href="./index.html">
+                                    <img style="width: 6rem;" src="img/footer-logo.png"
+                                        alt="Flamingos-hotel-en-el-centro-de-guadalajara">
+                                </a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-10">
-                        <div class="nav-menu">
-                            <nav class="mainmenu">
-                                <ul>
-                                    <li><a href="./index.html">Inicio</a></li>
-                                    <li><a href="javascript:void(0)">Instalaciones</a>
-                                        <ul class="dropdown">
-                                            <li><a href="./rooms.html">Habitaciones</a></li>
-                                            <li><a href="./index.html#restaurante">Restaurante</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="./visita-gdl.html">Visita Guadalajara</a></li>
-                                    <li><a href="./about-us.html">Nosotros</a></li>
-                                    <li><a href="./contact.html">Contacto</a></li>
-                                </ul>
-                            </nav>
+                        <div class="col-lg-10">
+                            <div class="nav-menu">
+                                <nav class="mainmenu">
+                                    <ul>
+                                        <li><a href="./index.html">Inicio</a></li>
+                                        <li><a href="javascript:void(0)">Instalaciones</a>
+                                            <ul class="dropdown">
+                                                <li><a href="./rooms.html">Habitaciones</a></li>
+                                                <li><a href="./index.html#restaurante">Restaurante</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="./about-us.html">Nosotros</a></li>
+                                        <li class="active"><a href="./visita-gdl.html">Visita Guadalajara</a></li>
+                                        <li><a href="./contact.html">Contacto</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </header>
-    <!-- Header End -->
+
 
     <!-- Breadcrumb Section Begin -->
-    <div style="color: white;" class="breadcrumb-section">
+    <div class="breadcrumb-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
-                        <h2>Nuestros espacios</h2>
+                        <h2>Sitios de interés</h2>
                         <div class="bt-option">
                             <a href="./index.html">Inicio</a>
-                            <span>Instalaciones</span>
+                            <span>Visita Guadalajara</span>
                         </div>
                     </div>
                 </div>
@@ -198,77 +209,77 @@
     </div>
     <!-- Breadcrumb Section End -->
 
-    <!-- Rooms Section Begin -->
-    <section style="color: white;" class="rooms-section spad">
+    <!-- Contact Section Begin -->
+    <section class="contact-section spad">
         <div class="container">
             <div class="row">
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="room-item">
-                        <img src="img/room/room-b1.jpg" alt="Hotel Flamingos habitacion sencilla">
-                        <div class="ri-text">
-                            <h4>Habitación Sencilla</h4>
-                            <h3><span></span></h3>
-                            <table>
-                                <tbody>
-                                    <tr>
-                                        <td class="r-o">Comodidades:</td>
-                                        <td>Servicio al cuarto</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Capacidad:</td>
-                                        <td>2 Personas max</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Cama:</td>
-                                        <td>Queen size</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Servicios:</td>
-                                        <td>Wifi, Televisión, Clima...</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                            <a href="./room-simple.html" class="primary-btn">Más Detalles</a>
-                        </div>
+                <div class="col-lg-12">
+                    <div class="contact-text">
+                        <p style="color: white; font-size: 18px; margin-bottom: 30px;">Hotel Flamingos pone a su disposicion un mapa con los sitios más iconicos de la ciudad disponibles para que usted y sus acompañantes visiten y conozcan Guadalajara.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="room-item">
-                        <img src="img/room/room-b4.jpg" alt="Hotel Flamingos habitacion doble">
-                        <div class="ri-text">
-                            <h4>Habitación Doble</h4>
-                            <h3><span></span></h3>
-                            <table>
-                                <tbody>
-                                    <tr>
-                                        <td class="r-o">Comodidades:</td>
-                                        <td>Servicio al cuarto</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Capacidad:</td>
-                                        <td>4 Personas max</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Cama:</td>
-                                        <td>1 Matrimonial + 1 Individual</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="r-o">Servicios:</td>
-                                        <td>Wifi, Televisión, Clima...</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                            <a href="./room-doble.html" class="primary-btn">Más Detalles</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- s -->
+            </div>
+            <div class="map">
+                <iframe height="470" style="border:0;" allowfullscreen="" loading="lazy"
+                    src="https://maps.google.com/maps?q=Flamingos%20Hotel&amp;t=m&amp;z=19&amp;output=embed&amp;iwloc=near"
+                    title="Flamingos Hotel" aria-label="Flamingos Hotel"></iframe>
             </div>
         </div>
     </section>
-    <!-- Rooms Section End -->
+    <!-- Contact Section End -->
+
+
+<!-- Chat de ayuda -->
+    <div id='whatsapp-chat' class='hide'>
+        <div class='header-chat'>
+            <div class='head-home'>
+                <h3>Hola!</h3>
+                <p class="chat">Haga clic en uno de nuestros representantes a continuación para chatear en WhatsApp o
+                    envíenos un correo electrónico a recepcion@hospedajeflamingos.com
+                </p>
+            </div>
+            <div class='get-new hide'>
+                <div id='get-label'></div>
+                <div id='get-nama'></div>
+            </div>
+        </div>
+        <div class='home-chat'>
+            <!-- Info Contact Start -->
+            <a class='informasi' href='javascript:void' title='Chat Whatsapp'>
+                <div class='info-avatar'><img
+                        src='https://2.bp.blogspot.com/-y6xNA_8TpFo/XXWzkdYk0MI/AAAAAAAAA5s/RCzTBJ_FbMwVt5AEZKekwQqiDNqdNQJjgCLcBGAs/s70/supportmale.png' />
+                </div>
+                <div class='info-chat'>
+                    <span class='chat-label'>Support</span>
+                    <span class='chat-nama'>Reservaciones</span>
+                </div><span class='my-number'>+523330370522</span>
+            </a>
+            <!-- Info Contact End -->
+            <!-- Info Contact Start -->
+            <a class='informasi' href='javascript:void' title='Chat Whatsapp'>
+                <div class='info-avatar'><img
+                        src='https://4.bp.blogspot.com/-X1Xs2iRKabY/XXWzkqQ-iDI/AAAAAAAAA5w/HSyhR0gIXvUzlAx5XgaZzmlrCJkTgrOFQCLcBGAs/s70/supportfemale.png' />
+                </div>
+                <div class='info-chat'>
+                    <span class='chat-label'>Purchases</span>
+                    <span class='chat-nama'>Recepcion</span>
+                </div><span class='my-number'>+52 33 3619 9921</span>
+            </a>
+            <!-- Info Contact End -->
+            <div class='blanter-msg'>Llamanos al <b>+52 (33) 3619 9921</b> de <i>9:00hs a 20:00hs</i></div>
+        </div>
+        <div class='start-chat hide'>
+            <div class='first-msg'><span>¡Hola! ¿en que puedo ayudarte?</span></div>
+            <div class='blanter-msg'><textarea id='chat-input' placeholder='Escribe un mensaje' maxlength='120'
+                    row='1'></textarea>
+                <a href='javascript:void;' id='send-it'>Enviar</a>
+            </div>
+        </div>
+        <div id='get-number'></div><a class='close-chat' href='javascript:void'>×</a>
+    </div>
+    <a class='blantershow-chat' href='javascript:void' title='Help Chat'><i class='fab fa-whatsapp'></i>¿Podemos
+        ayudarte?</a>
+    <!-- Chat de ayuda -->
 
     <!-- Footer Section Begin -->
     <footer class="footer-section">
@@ -297,7 +308,7 @@
                     <div class="col-lg-3 offset-lg-1">
                         <div class="ft-contact">Contáctanos</h6>
                             <ul>
-                                <li>33 3619 9921</li>
+                                <li>33 3619 9921 </li>
                                 <li>recepcion@hospedajeflamingos.com</li>
                                 <li>Calz Independencia Sur 725, Las Conchas, 44460 Guadalajara, Jal.</li>
                             </ul>
